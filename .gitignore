@@ -1,0 +1,6 @@
+churn_predictor/
+.env
+venv
+requirements.txt
+*.csv
+*.xls
